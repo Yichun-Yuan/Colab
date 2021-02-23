@@ -1,2 +1,1 @@
-# Colab
-A notebook is a list of cells. Cells contain either explanatory text or executable code and its output.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
